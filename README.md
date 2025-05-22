@@ -66,6 +66,6 @@
 
 Собранный `.apk` можно скачать здесь:
 
- [Скачать NewsAggregator.apk](https://github.com/USERNAME/REPO/raw/main/release/NewsAggregator.apk)
+[Скачать NewsAggregator.apk](https://github.com/NIKDIRF/NewsAggregator/raw/main/release/NewsAggregator.apk)
 
 ---
